@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badreddinebenjemaa
 - 👀 I’m interested in web dev (Full stack)
-- 🌱 I’m currently learning Web And Cloud-ready Applications
+- 🌱 I’m currently learning Angular/NestJS And initialzing Cloud-ready Applications
 - 💞️ I’m looking to collaborate on open-source projects
 
 <!---
